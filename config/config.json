@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "admin0207",
+    "database": "sookmyung",
+    "host": "database-1.covogqeft4w5.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  }
+}
